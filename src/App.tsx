@@ -12,7 +12,7 @@ import {Display2} from "./Display2/Display2";
 function App() {
 
     return (
-        <div>Hello</div>
+        <div></div>
     )
 
 
