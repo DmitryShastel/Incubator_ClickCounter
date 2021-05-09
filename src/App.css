@@ -1,0 +1,31 @@
+/*.App > wraper{
+    height: 200px;
+    weight: 300px;
+    border-bottom: 2px;
+    color: red;
+}*/
+
+.App{
+    border: 2px solid red;
+    border-radius: 10px;
+    margin: 30px auto;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    background-color: black;
+}
+
+.App2{
+    border: 2px solid red;
+    border-radius: 10px;
+    margin: 30px auto;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    background-color: black;
+}
+
+.wrapper {
+    display: flex;
+    margin-top: 100px;
+}

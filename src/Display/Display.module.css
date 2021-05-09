@@ -1,0 +1,10 @@
+.display{
+    margin: 5px;
+    display: inline-block;
+    border: 2px solid lightseagreen;
+    width: 385px;
+    height: 100px;
+    background-color: #fcc;
+    border-radius: 5px;
+
+}
